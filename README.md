@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at Ponto Gestão e Inovação
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
+- 🔭 I’m currently working as a data and BI analyst at Ponto Gestão e Inovação. 
+- 🌱 I’m currently learning Java, Spring Framework and everything related to the Java universe.
 - 📫 How to reach me: @leonardocs1
