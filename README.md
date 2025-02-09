@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a Data and BI analyst at Ponto Gestão e Inovação. 
-- 🌱 I’m currently learning Java, Spring Framework and everything related to the Java universe.
+- 🔭 I work as a Data and BI Analyst at Ponto Gestão e Inovação. 
+- 🌱 I am currently expanding my knowledge in the field of data engineering.
 - 📫 How to reach me: @leonardocs1
